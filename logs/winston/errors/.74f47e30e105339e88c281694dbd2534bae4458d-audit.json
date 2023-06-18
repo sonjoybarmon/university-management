@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/.74f47e30e105339e88c281694dbd2534bae4458d-audit.json",
-    "files": [
-        {
-            "date": 1687088449443,
-            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-17.log`",
-            "hash": "018d0c14c6a4b5f2993cc907de5e1ee110923760e90873a56938ce2a0594f5b0"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/.74f47e30e105339e88c281694dbd2534bae4458d-audit.json",
+  "files": [
+    {
+      "date": 1687088449443,
+      "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-17.log`",
+      "hash": "018d0c14c6a4b5f2993cc907de5e1ee110923760e90873a56938ce2a0594f5b0"
+    }
+  ],
+  "hashType": "sha256"
 }
