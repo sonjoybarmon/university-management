@@ -14,8 +14,6 @@ export const createUserDB = async (user: IUser): Promise<IUser | null> => {
 
   const newUser = await User.create(user)
 
-  console.log(newUser)
-
   if (!newUser) {
     throw new Error('Failed to create user!')
   }

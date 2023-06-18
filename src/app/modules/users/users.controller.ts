@@ -14,7 +14,7 @@ export const createUser = async (req: Request, res: Response) => {
     })
   } catch (err) {
     res.status(400).json({
-      sucess: false,
+      success: false,
       message: 'Failed to create user',
     })
   }
