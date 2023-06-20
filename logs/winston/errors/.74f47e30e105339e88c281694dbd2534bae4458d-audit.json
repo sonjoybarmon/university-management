@@ -1,15 +1,40 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/.74f47e30e105339e88c281694dbd2534bae4458d-audit.json",
-  "files": [
-    {
-      "date": 1687088449443,
-      "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-17.log`",
-      "hash": "018d0c14c6a4b5f2993cc907de5e1ee110923760e90873a56938ce2a0594f5b0"
-    }
-  ],
-  "hashType": "sha256"
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/.74f47e30e105339e88c281694dbd2534bae4458d-audit.json",
+    "files": [
+        {
+            "date": 1687088449443,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-17.log`",
+            "hash": "018d0c14c6a4b5f2993cc907de5e1ee110923760e90873a56938ce2a0594f5b0"
+        },
+        {
+            "date": 1687089602227,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-18.log`",
+            "hash": "105f086a087e1fe654af64e3b25ffb1654e9ad2de9f41d5aa498a8edf02929b2"
+        },
+        {
+            "date": 1687093278113,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-19.log`",
+            "hash": "e5ea2ce2648364a84efc354283be561f1fcd76fe11ea1550628ab6dba32308f4"
+        },
+        {
+            "date": 1687109054638,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-18-23.log`",
+            "hash": "28dc946d5106698ed77b6257728dadc3360bdde2625f9ccd86370274fe5c7aa2"
+        },
+        {
+            "date": 1687114230426,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-19-00.log`",
+            "hash": "941d1f5ff1c00f2251fca0adad9875d502287fec5332d8f0ba7ca39b4becb279"
+        },
+        {
+            "date": 1687284023762,
+            "name": "/Users/sonjoybarmon/Desktop/leaning/university-management/logs/winston/errors/error-2023-06-21-00.log`",
+            "hash": "cdd403dc74a6aa91401b4b9ce368bf7700f1eb9cbe35d61219b3abf76ee96052"
+        }
+    ],
+    "hashType": "sha256"
 }

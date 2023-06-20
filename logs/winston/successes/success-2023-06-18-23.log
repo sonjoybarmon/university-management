@@ -1,0 +1,20 @@
+Sun Jun 18 2023 23:24:24 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-01.5trbi.mongodb.net
+Sun Jun 18 2023 23:24:24 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:24:27 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-00.5trbi.mongodb.net
+Sun Jun 18 2023 23:24:27 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:1 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-00.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:1 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:5 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-02.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:5 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:11 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-00.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:11 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:25 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-02.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:25 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:41 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-00.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:41 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:25:55 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-01.5trbi.mongodb.net
+Sun Jun 18 2023 23:25:55 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:26:2 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-01.5trbi.mongodb.net
+Sun Jun 18 2023 23:26:2 } [SreeIT] info: Server running on port 5000
+Sun Jun 18 2023 23:26:5 } [SreeIT] info: MongoDB Connected: cluster0-shard-00-00.5trbi.mongodb.net
+Sun Jun 18 2023 23:26:5 } [SreeIT] info: Server running on port 5000
